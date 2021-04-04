@@ -23,7 +23,7 @@
       5 : "Golang",
       6 : "JavaScript (ECMAScript)",
       7 : "CSharp",
-      8 : "CPL"
+      8 : "CPL",
       9 : "Basic algorithm",
       10 : "Design pattern",
       11 : "Functional programming",
