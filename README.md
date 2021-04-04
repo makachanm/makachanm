@@ -16,7 +16,7 @@
     m.name = "maka_8926"
     m.age = 17
     m.learning = map[int]string{
-    	1 : "ReactJS",
+      1 : "ReactJS",
       2 : "VueJS",
       3 : "MongoDB",
       4 : "Recoil",
