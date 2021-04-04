@@ -1,5 +1,38 @@
-### Hi there 👋
+### Technology for everyone.
 
+  ```golang
+  package main
+  import "fmt"
+  
+  type maka struct {
+    name string
+    age int
+    learning map[int]string
+  }
+  
+  func main(){
+    m := maka{}
+    
+    m.name = "maka_8926"
+    m.age = 17
+    m.learning = map[int]string{
+    	1 : "ReactJS",
+      2 : "VueJS",
+      3 : "MongoDB",
+      4 : "Recoil",
+      5 : "Golang",
+      6 : "JavaScript (ECMAScript)",
+      7 : "CSharp",
+    }
+    
+    fmt.Println(m.name, m.age)
+    
+    for _, val := range m.learning {
+    	fmt.Println(val)
+    }
+  }
+  ```
+  
 <!--
 **Mincart8925/Mincart8925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
