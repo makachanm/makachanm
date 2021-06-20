@@ -1,5 +1,5 @@
-### Technology for everyone.
-
+### Hello World, Goodbye World.
+<!--
   ```golang
   package main
   import "fmt"
@@ -36,7 +36,7 @@
     }
   }
   ```
-  
+-->
 <!--
 **Mincart8925/Mincart8925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
