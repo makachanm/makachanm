@@ -1,4 +1,4 @@
-### do code.
+### this is readme.
 
 <!--
 **Mincart8925/Mincart8925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
