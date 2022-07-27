@@ -1,5 +1,9 @@
-### this is readme.
+## Commit Changes
+> **Update README.md**<br />
+```Add an optional extened description...```
 
+- [x] Commit directly to the ```main``` branch
+- [ ] Create a new branch for this commit and start a pull request. [Learn more about pull requests.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 <!--
 **Mincart8925/Mincart8925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
