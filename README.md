@@ -1,3 +1,4 @@
 <div align="center">
-<img src="https://github.com/makachanm/makachanm/blob/2e16443c9c58e6601c1a989c4276000fd56edb36/chart2.png"></img>
+<h3>This page best viewed with: </h5>
+<img src="https://github.com/makachanm/makachanm/blob/6f664f4f55acc9abf05fb1ffd1c4f70ceee066ff/bestviewd.png"></img>
 </div>
